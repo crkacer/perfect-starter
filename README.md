@@ -49,7 +49,6 @@ Ensure you have installed and activated the latest Swift 3.0 tool chain.
 
 
 
-
 ## Building
 
 After clone the project
